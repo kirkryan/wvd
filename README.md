@@ -1,6 +1,9 @@
 # Welcome to Windows Virtual Desktop Rapid Storage Deployment
 
-This has been developed to allow you to rapidly deploy storage for any WVD deployment that can instantly scale between 200 - 5120 users per deployment*. It uses best practices documented here (https://docs.microsoft.com/azure/virtual-desktop/create-fslogix-profile-container) and deploys securely within your Azure environment.
+This has been developed to allow you to rapidly deploy storage for any WVD deployment that can instantly scale between 200 - 5120 users per deployment*. 
+
+It uses best practices documented here (https://docs.microsoft.com/azure/virtual-desktop/create-fslogix-profile-container) and deploys securely within your Azure environment.
+
 **Based on the default FSLogix quota of 20GB per user profile*
 
 
